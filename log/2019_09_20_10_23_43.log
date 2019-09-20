@@ -1,0 +1,32 @@
+2019-09-20 10:23:43,077::recognize-music.py::setUp:: Start Recongize music testing
+
+2019-09-20 10:23:48,852::recognize-music.py::setUp:: Device ID is: VBJ4C18511009741
+
+2019-09-20 10:23:48,964::recognize-music.py::setUp:: Device Status: screen on
+
+2019-09-20 10:24:08,678::recognize-music.py::runTest:: Start to recognize music...
+
+2019-09-20 10:24:29,533::reco_success.py::co_reco:: Song recognition succeeded!
+
+2019-09-20 10:24:29,898::reco_success.py::co_reco:: The Song's Name is 我的名字
+
+2019-09-20 10:24:35,685::reco_success.py::co_reco:: Start to recognize music...
+
+2019-09-20 10:24:57,851::reco_fail.py::re_reco:: Song not recognized, re-recognizing...
+
+2019-09-20 10:25:20,271::reco_fail.py::re_reco:: Song not recognized, re-recognizing...
+
+2019-09-20 10:25:40,899::reco_success.py::co_reco:: Song recognition succeeded!
+
+2019-09-20 10:25:41,242::reco_success.py::co_reco:: The Song's Name is 我的名字
+
+2019-09-20 10:25:47,032::reco_success.py::co_reco:: Start to recognize music...
+
+2019-09-20 10:26:07,754::reco_success.py::co_reco:: Song recognition succeeded!
+
+2019-09-20 10:26:08,179::reco_success.py::co_reco:: The Song's Name is 我的名字（Cover：焦迈奇）
+
+2019-09-20 10:26:13,960::reco_success.py::co_reco:: Start to recognize music...
+
+2019-09-20 10:26:36,269::reco_fail.py::re_reco:: Song not recognized, re-recognizing...
+

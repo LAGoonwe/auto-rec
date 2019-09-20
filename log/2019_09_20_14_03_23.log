@@ -1,0 +1,12 @@
+2019-09-20 14:03:23,370::recognize-music.py::setUp:: Start Recognize music testing
+
+2019-09-20 14:03:29,161::recognize-music.py::setUp:: Device ID is: VBJ4C18511009741
+
+2019-09-20 14:03:29,297::recognize-music.py::setUp:: Device Status: screen on
+
+2019-09-20 14:03:48,943::recognize-music.py::runTest:: Start to recognize music...
+
+2019-09-20 14:04:10,743::reco_fail.py::re_reco:: Song not recognized, re-recognizing...
+
+2019-09-20 14:04:37,389::reco_fail.py::re_reco:: Song not recognized, re-recognizing...
+
